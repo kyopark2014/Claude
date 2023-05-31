@@ -9,3 +9,5 @@
 [Getting started with the API](https://console.anthropic.com/docs/api)
 
 [API Reference](https://console.anthropic.com/docs/api/reference)
+
+[Login to Anthropic](https://console.anthropic.com/login)
