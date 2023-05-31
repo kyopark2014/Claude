@@ -19,3 +19,4 @@
 
 [Anthropic Python SDK](https://github.com/anthropics/anthropic-sdk-python)
 
+[Getting started with Claude](https://console.anthropic.com/docs(
