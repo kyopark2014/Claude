@@ -19,4 +19,6 @@
 
 [Anthropic Python SDK](https://github.com/anthropics/anthropic-sdk-python)
 
-[Getting started with Claude](https://console.anthropic.com/docs(
+[Anthropic TypeScript SDK](https://github.com/anthropics/anthropic-sdk-typescript)
+
+[Getting started with Claude](https://console.anthropic.com/docs)
