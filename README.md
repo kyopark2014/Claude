@@ -4,7 +4,7 @@
 
 ## 계정 생성
 
-[Login to Anthropic](https://console.anthropic.com/login)에 접속하여 "Claude Early Access"을 신청합니다. 
+[Login to Anthropic](https://console.anthropic.com/login)에 접속합니다. 계정이 없는 경우에 [Claude Early Access](https://www.anthropic.com/earlyaccess)을 신청합니다. 
 
 
 ## Reference
