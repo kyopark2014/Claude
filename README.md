@@ -16,3 +16,6 @@
 [API Reference](https://console.anthropic.com/docs/api/reference)
 
 [Login to Anthropic](https://console.anthropic.com/login)
+
+[Anthropic Python SDK](https://github.com/anthropics/anthropic-sdk-python)
+
